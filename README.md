@@ -55,8 +55,8 @@ graph TD;
     Back-End-->PHP
     Frameword-->.NetCore;
     Framework-->.NetFramework
-    Base de Datos-->SQL
-    Base de Datos-->MySql
+    Base-de-Datos-->SQL
+    Base-de-Datos-->MySql
     Metodologias-->RUP
 ```
 ### FullStack
