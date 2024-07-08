@@ -49,15 +49,15 @@ graph TD;
 ###Backend
 ```mermaid
 graph TD;
-    Lenguajes--> C;
-    Lenguajes -> C++;
-    Back-End-->C##;
-    Back-End-->PHP;
+    Lenguajes--> C
+    Lenguajes--> C++
+    Back-End-->C##
+    Back-End-->PHP
     Frameword-->.NetCore;
-    Framework-->.NetFramework;
-    Base de Datos-->SQL;
-    Base de Datos-->MySql;
-    Metodologias-->RUP;
+    Framework-->.NetFramework
+    Base de Datos-->SQL
+    Base de Datos-->MySql
+    Metodologias-->RUP
 ```
 ### FullStack
 <p align="center">
