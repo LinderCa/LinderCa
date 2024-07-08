@@ -30,7 +30,7 @@ Bienvenido a FreeStyle, un estilo libre de código para todos.
 
 # 👨‍💻 Your Skills
 ### Frontend
-mermaid
+```mermaid
 graph TD;
     Front-End-->HTML5;
     Front-End-->CSS3;
@@ -39,9 +39,9 @@ graph TD;
     Front-End-->Angular;
     Front-End-->JSON;
     Front-End-->TypeScript;
-
+```
 ### Backend
-mermaid
+```mermaid
 graph TD;
     Lenguajes--> C
     Lenguajes--> C++
@@ -52,7 +52,7 @@ graph TD;
     Base-de-Datos-->SQL
     Base-de-Datos-->MySql
     Metodologias-->RUP
-
+```
 ### Full Stack
 <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
