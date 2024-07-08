@@ -72,3 +72,10 @@ graph TD;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">   
 <p/>
+
+# 👁️ Views
+<div align="center">
+<br><p align="centre"><b>Visitors Count 👽 </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" /></p> 
+<br>
+</div>
