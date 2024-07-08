@@ -1,6 +1,6 @@
 # 👽 FreeStyle
 Bienvenido a FreeStyle, un estilo libre de codigo para todos.
-# 🌐 Social Media
+
 <div align="center">
 <div align="center">
 <a href="https://facebook.com/👽" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
@@ -47,7 +47,7 @@ graph TD;
     Front-End-->Vue;
     Front-End-->TypeScript;
     Front-End-->JQuery;
-
+```
 
 ```mermaid
 graph TD;
@@ -78,7 +78,7 @@ graph TD;
     Java-->Forms;
     Forms-->iReport
     Forms-->JFrame;
-
+```
 ## BACKEND
 
 
