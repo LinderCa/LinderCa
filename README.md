@@ -1,20 +1,5 @@
 # 👽 FreeStyle
 Bienvenido a FreeStyle, un estilo libre de codigo para todos.
-
-# 📈 Statistics
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-📊 Stats
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bastndev&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastndev&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
-</div> 
-
-<p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
-</p>
-
 # 🌐 Social Media
 <div align="center">
 <div align="center">
@@ -31,7 +16,72 @@ Bienvenido a FreeStyle, un estilo libre de codigo para todos.
 </div>
 
 
+# 📈 Statistics
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+# 📊 Stats
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bastndev&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastndev&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+</div> 
+
+<p align="center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
+</p>
+
+
+
+
+
+# 👨‍💻 Your Skills
+```mermaid
+graph TD;
+    Front-End-->HTML5;
+    Front-End-->CSS3;
+    Front-End-->JavaScript;
+    Front-End-->Angular;
+    Front-End-->React;
+    Front-End-->XML;
+    Front-End-->JSON;
+    Front-End-->Vue;
+    Front-End-->TypeScript;
+    Front-End-->JQuery;
+
+
+```mermaid
+graph TD;
+    Back-End-->Java;
+    Back-End-->NodeJs;
+    NodeJs-->Socket.io;
+    NodeJs-->Meteor.Js.
+    Back-End-->PHP;
+    PHP-->Laravel;
+    PHP-->Zend;
+    PHP-->CakePHP;
+    Java-->JavaSE;
+    Java-->JavaEE;
+    JavaEE-->PureApplet;
+    JavaEE-->JavaServlet;
+    JavaEE-->EBJ;
+    Java-->Spring;
+    Java-->SQL;
+    Laravel-->SQL;
+    Spring-->SprBootMVC;
+    Spring-->SprBootAPI-REST;
+    Spring-->SprDATA-JPA;
+    SQL-->Hibernate;
+    SQL-->Spr-JDBC;
+    Spring-->Spr-Security;
+    Spring-->JSP;
+    Spring-->JPA;
+    Java-->Forms;
+    Forms-->iReport
+    Forms-->JFrame;
+
 ## BACKEND
+
+
 <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js">  
@@ -66,18 +116,3 @@ Bienvenido a FreeStyle, un estilo libre de codigo para todos.
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Electron.svg" width="48" title="Electron">   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webflow.svg" width="48" title="Webflow">  
 <p/>
-
-
-# 👨‍💻 Your Skills
-```mermaid
-graph TD;
-    Front-End-->HTML5;
-    Front-End-->CSS3;
-    Front-End-->JavaScript;
-    Front-End-->Angular;
-    Front-End-->React;
-    Front-End-->XML;
-    Front-End-->JSON;
-    Front-End-->Vue;
-    Front-End-->TypeScript;
-    Front-End-->JQuery; 
