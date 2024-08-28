@@ -1,46 +1,44 @@
 <!-------------------------------------------------------------------------------------------->
 
-
-<h1 align="center">Free Style</h1><p align="center">
-Bienvenido a mi repositorio de codigo libre, se encuentran todos mis proyectos de inicio a fin, tanto proyectos universitarios como proyectos de interes personal.
+<h1 align="center">Free Style</h1>
+<p align="center">
+Bienvenido a mi repositorio de código libre, donde se encuentran todos mis proyectos desde el inicio hasta el fin, tanto universitarios como personales.
   
 <div align="center">
-<a href="https://www.facebook.com/LinderCasasM" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231c1c1c.svg?&style=for-the-badge&logo=facebook&logoColor=c9c9c9"/></a>
-<a href="https://x.com/home" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231c1c1c.svg?&style=for-the-badge&logo=twitter&logoColor=c9c9c9" /></a>  
-<a href="https://www.tiktok.com/@lindercasas" target="_blank"><img src="https://img.shields.io/badge/TikTok-1c1c1c?style=for-the-badge&logo=tiktok&logoColor=c9c9c9" ></a>
-<a href="https://www.instagram.com/casaslinder/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%231c1c1c?style=for-the-badge&logo=instagram&logoColor=c9c9c9"></a> 
+<a href="https://www.facebook.com/LinderCasasM" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%232c2c2c.svg?&style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
+<a href="https://x.com/home" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%232c2c2c.svg?&style=for-the-badge&logo=twitter&logoColor=ffffff" /></a>  
+<a href="https://www.tiktok.com/@lindercasas" target="_blank"><img src="https://img.shields.io/badge/TikTok-2c2c2c?style=for-the-badge&logo=tiktok&logoColor=ffffff" ></a>
+<a href="https://www.instagram.com/casaslinder/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%232c2c2c?style=for-the-badge&logo=instagram&logoColor=ffffff"></a> 
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%231c1c1c.svg?&style=for-the-badge&logo=linkedin&logoColor=c9c9c9)](https://www.linkedin.com/in/linder-casas-3820a0290/)
-[![Mail Badge](https://img.shields.io/badge/email-1c1c1c?style=for-the-badge&logo=Gmail&logoColor=c9c9c9&link=mailto:lindercasas@gmail.com)](mailto:lindercasas@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%232c2c2c.svg?&style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/linder-casas-3820a0290/)
+[![Mail Badge](https://img.shields.io/badge/email-2c2c2c?style=for-the-badge&logo=Gmail&logoColor=ffffff&link=mailto:lindercasas@gmail.com)](mailto:lindercasas@gmail.com)
 </div>
-
 
 <!-------------------------------------------------------------------------------------------->
 
 # 📈 Statistics
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LinderCa&bg_color=1c1c1c&color=c9c9c9&line=6e6e6e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LinderCa&bg_color=2c2c2c&color=ffffff&line=6e6e6e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-------------------------------------------------------------------------------------------->
 
 # 📊 Stats
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LinderCa&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=6e6e6e&text_color=c9c9c9&bg_color=1c1c1c" alt="LinderCa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinderCa&layout=compact&hide_border=true&title_color=ffffff&text_color=c9c9c9&bg_color=1c1c1c" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LinderCa&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=6e6e6e&text_color=ffffff&bg_color=2c2c2c" alt="LinderCa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinderCa&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=2c2c2c" />
 </div>
 
 <p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=LinderCa&theme=tokyonight_duo&hide_border=true&background=1c1c1c&stroke=ffffff">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=LinderCa&theme=tokyonight_duo&hide_border=true&background=2c2c2c&stroke=ffffff">
 </p>
 
 <div align="center">
-<a href="https://www.facebook.com/LinderCasasM" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231c1c1c.svg?&style=for-the-badge&logo=facebook&logoColor=c9c9c9"/></a>
-<a href="https://x.com/home" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231c1c1c.svg?&style=for-the-badge&logo=twitter&logoColor=c9c9c9" /></a>  
-<a href="https://www.tiktok.com/@lindercasas" target="_blank"><img src="https://img.shields.io/badge/TikTok-1c1c1c?style=for-the-badge&logo=tiktok&logoColor=c9c9c9" ></a>
-<a href="https://www.instagram.com/casaslinder/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%231c1c1c?style=for-the-badge&logo=instagram&logoColor=c9c9c9"></a> 
+<a href="https://www.facebook.com/LinderCasasM" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%232c2c2c.svg?&style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
+<a href="https://x.com/home" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%232c2c2c.svg?&style=for-the-badge&logo=twitter&logoColor=ffffff" /></a>  
+<a href="https://www.tiktok.com/@lindercasas" target="_blank"><img src="https://img.shields.io/badge/TikTok-2c2c2c?style=for-the-badge&logo=tiktok&logoColor=ffffff" ></a>
+<a href="https://www.instagram.com/casaslinder/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%232c2c2c?style=for-the-badge&logo=instagram&logoColor=ffffff"></a> 
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%231c1c1c.svg?&style=for-the-badge&logo=linkedin&logoColor=c9c9c9)](https://www.linkedin.com/in/linder-casas-3820a0290/)
-[![Mail Badge](https://img.shields.io/badge/email-1c1c1c?style=for-the-badge&logo=Gmail&logoColor=c9c9c9&link=mailto:lindercasas@gmail.com)](mailto:lindercasas@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%232c2c2c.svg?&style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/linder-casas-3820a0290/)
+[![Mail Badge](https://img.shields.io/badge/email-2c2c2c?style=for-the-badge&logo=Gmail&logoColor=ffffff&link=mailto:lindercasas@gmail.com)](mailto:lindercasas@gmail.com)
 </div>
 
 <!-------------------------------------------------------------------------------------------->
@@ -52,11 +50,11 @@ graph TD;
     Front-End-->HTML5;
     Front-End-->CSS3;
     Front-End-->JavaScript;
-    Front-End-->TailwindCss
+    Front-End-->TailwindCss;
     Front-End-->Angular;
     Front-End-->JSON;
     Front-End-->TypeScript;
-    classDef frontEnd fill:#1c1c1c,stroke:#ffffff,color:#c9c9c9;
+    classDef frontEnd fill:#2c2c2c,stroke:#ffffff,color:#ffffff;
     class HTML5,CSS3,JavaScript,TailwindCss,Angular,JSON,TypeScript frontEnd;
 ```
 
@@ -92,7 +90,7 @@ graph TD;
     Java-->Forms;
     Forms-->iReport;
     Forms-->JFrame;
-    classDef backEnd fill:#1c1c1c,stroke:#ffffff,color:#c9c9c9;
+    classDef backEnd fill:#2c2c2c,stroke:#ffffff,color:#ffffff;
     class Java,NodeJs,Socket.io,Meteor.Js,PHP,Laravel,Zend,CakePHP,JavaSE,JavaEE,PureApplet,JavaServlet,EBJ,Spring,SQL,Hibernate,Spr-JDBC,Spr-Security,JSP,JPA,Forms,iReport,JFrame backEnd;
 
 ```
