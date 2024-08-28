@@ -8,8 +8,7 @@ Bienvenido a mi repositorio de codigo libre, se encuentran todos mis proyectos d
 <a href="https://www.instagram.com/casaslinder/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linder-casas-3820a0290/)
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=[mailto:👽@gmail.com](https://mail.google.com/mail/u/0/#inbox))]([mailto:👽@gmail.com](https://mail.google.com/mail/u/0/#inbox))
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@👽)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=[https://mail.google.com/mail/u/0/#inbox](https://mail.google.com/mail/u/0/#inbox))]([mailto:👽@gmail.com](https://mail.google.com/mail/u/0/#inbox))
 </div>
 
 # 📈 Statistics
