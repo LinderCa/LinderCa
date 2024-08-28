@@ -1,43 +1,3 @@
-<style>
-    body {
-        font-family: 'Georgia', serif;
-        color: #c9c9c9;
-        background-color: #1c1c1c;
-    }
-    h1, h2, h3, h4, h5, h6 {
-        color: #ffffff;
-        font-family: 'Garamond', serif;
-    }
-    a {
-        color: #c9c9c9;
-        text-decoration: none;
-    }
-    a:hover {
-        color: #ffffff;
-    }
-      .mermaid {
-        font-family: 'Garamond', serif;
-        color: #c9c9c9;
-        background-color: #1c1c1c;
-    }
-    .mermaid .edgeLabel, .mermaid .node text {
-        color: #c9c9c9;
-    }
-    .mermaid .node rect {
-        fill: #1c1c1c;
-        stroke: #ffffff;
-    }
-    .mermaid .edgePath path {
-        stroke: #c9c9c9;
-    }
-    .mermaid .edgeLabel {
-        color: #c9c9c9;
-    }
-    .mermaid .node text, .mermaid .edgeLabel text {
-        font-family: 'Garamond', serif;
-    }
-
-</style>
 <!-------------------------------------------------------------------------------------------->
 
 
@@ -102,7 +62,6 @@ graph TD;
 
 
 <!-------------------------------------------------------------------------------------------->
-
 ### Backend
 ```mermaid
 graph TD;
@@ -135,6 +94,7 @@ graph TD;
     Forms-->JFrame;
     classDef backEnd fill:#1c1c1c,stroke:#ffffff,color:#c9c9c9;
     class Java,NodeJs,Socket.io,Meteor.Js,PHP,Laravel,Zend,CakePHP,JavaSE,JavaEE,PureApplet,JavaServlet,EBJ,Spring,SQL,Hibernate,Spr-JDBC,Spr-Security,JSP,JPA,Forms,iReport,JFrame backEnd;
+
 ```
 <!-------------------------------------------------------------------------------------------->
 
