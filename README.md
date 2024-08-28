@@ -16,27 +16,7 @@
         color: #ffffff;
     }
 
-      .mermaid {
-        font-family: 'Garamond', serif;
-        color: #c9c9c9;
-        background-color: #1c1c1c;
-    }
-    .mermaid .edgeLabel, .mermaid .node text {
-        color: #c9c9c9;
-    }
-    .mermaid .node rect {
-        fill: #1c1c1c;
-        stroke: #ffffff;
-    }
-    .mermaid .edgePath path {
-        stroke: #c9c9c9;
-    }
-    .mermaid .edgeLabel {
-        color: #c9c9c9;
-    }
-    .mermaid .node text, .mermaid .edgeLabel text {
-        font-family: 'Garamond', serif;
-    }
+
 </style>
 <!-------------------------------------------------------------------------------------------->
 
