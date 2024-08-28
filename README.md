@@ -2,33 +2,33 @@
 Bienvenido a mi repositorio de codigo libre, se encuentran todos mis proyectos de inicio a fin, tanto proyectos universitarios como proyectos de interes personal.
   
 <div align="center">
-<a href="https://www.facebook.com/LinderCasasM" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://x.com/home" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>  
-<a href="https://www.tiktok.com/@lindercasas" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" ></a>
-<a href="https://www.instagram.com/casaslinder/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+<a href="https://www.facebook.com/LinderCasasM" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231c1c1c.svg?&style=for-the-badge&logo=facebook&logoColor=c9c9c9"/></a>
+<a href="https://x.com/home" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231c1c1c.svg?&style=for-the-badge&logo=twitter&logoColor=c9c9c9" /></a>  
+<a href="https://www.tiktok.com/@lindercasas" target="_blank"><img src="https://img.shields.io/badge/TikTok-1c1c1c?style=for-the-badge&logo=tiktok&logoColor=c9c9c9" ></a>
+<a href="https://www.instagram.com/casaslinder/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%231c1c1c?style=for-the-badge&logo=instagram&logoColor=c9c9c9"></a> 
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linder-casas-3820a0290/)
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lindercasas@gmail.com)](mailto:lindercasas@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%231c1c1c.svg?&style=for-the-badge&logo=linkedin&logoColor=c9c9c9)](https://www.linkedin.com/in/linder-casas-3820a0290/)
+[![Mail Badge](https://img.shields.io/badge/email-1c1c1c?style=for-the-badge&logo=Gmail&logoColor=c9c9c9&link=mailto:lindercasas@gmail.com)](mailto:lindercasas@gmail.com)
 </div>
+
 
 <!-------------------------------------------------------------------------------------------->
 
 # 📈 Statistics
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LinderCa&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LinderCa&bg_color=1c1c1c&color=c9c9c9&line=6e6e6e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!-------------------------------------------------------------------------------------------->
 
 # 📊 Stats
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LinderCa&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="LinderCa github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinderCa&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
-</div> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LinderCa&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=6e6e6e&text_color=c9c9c9&bg_color=1c1c1c" alt="LinderCa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinderCa&layout=compact&hide_border=true&title_color=ffffff&text_color=c9c9c9&bg_color=1c1c1c" />
+</div>
 
 <p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=LinderCa&theme=tokyonight_duo&hide_border=true" alt="LinderCa streak stats">
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=LinderCa&theme=tokyonight_duo&hide_border=true&background=1c1c1c&stroke=ffffff">
 </p>
-
 
 <!-------------------------------------------------------------------------------------------->
 
@@ -43,6 +43,8 @@ graph TD;
     Front-End-->Angular;
     Front-End-->JSON;
     Front-End-->TypeScript;
+    classDef frontEnd fill:#1c1c1c,stroke:#ffffff;
+    class HTML5,CSS3,JavaScript,TailwindCss,Angular,JSON,TypeScript frontEnd;
 ```
 
 
